@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aayush</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="icon" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC"/>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aaks-ctrl&label=Profile%20views&color=0e75b6&style=flat" alt="aaks-ctrl" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aaks-ctrl" alt="aaks-ctrl" /></a> </p>
 
